@@ -1,0 +1,23 @@
+{
+    "a7f09462-1d5d-4c1b-b17c-ff7f9aa20a0a": {
+        "id": "a7f09462-1d5d-4c1b-b17c-ff7f9aa20a0a",
+        "title": "Complete project proposal",
+        "description": "Write and finalize the project proposal document.",
+        "status": "In Progress",
+        "dueDate": "2024-03-25"
+    },
+    "b59a7882-35b4-4933-95cc-b7df8a077bdc": {
+        "id": "b59a7882-35b4-4933-95cc-b7df8a077bdc",
+        "title": "Prepare presentation slides",
+        "description": "Create slides for the project presentation.",
+        "status": "Pending",
+        "dueDate": "2024-03-28"
+    },
+    "c3b12da8-93c3-4c10-b87a-1b121ca16fc8": {
+        "id": "c3b12da8-93c3-4c10-b87a-1b121ca16fc8",
+        "title": "Review project requirements",
+        "description": "Go through project requirements and clarify any doubts.",
+        "status": "Completed",
+        "dueDate": "2024-03-20"
+    }
+}
